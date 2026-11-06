@@ -1244,7 +1244,7 @@ uid	city	state
 1242	South Canaan	PA
 1243	South China	ME
 1244	South Gate	CA
-1245	South Solon	OH
+1245	South Lyon	MI
 1246	Southfield	MI
 1247	Spanish Fort	AL
 1248	Sparks	NV
